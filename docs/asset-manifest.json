@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/static/css/main.317a20a1.css",
-    "main.js": "/static/js/main.b8d62640.js",
-    "static/media/leprechaun-svg.svg": "/static/media/leprechaun-svg.4069d66580b39c0669b29e5486a7611a.svg",
-    "index.html": "/index.html",
-    "main.317a20a1.css.map": "/static/css/main.317a20a1.css.map",
-    "main.b8d62640.js.map": "/static/js/main.b8d62640.js.map"
+    "main.css": "/auth-login-pratice/static/css/main.317a20a1.css",
+    "main.js": "/auth-login-pratice/static/js/main.21eff82c.js",
+    "static/media/leprechaun-svg.svg": "/auth-login-pratice/static/media/leprechaun-svg.4069d66580b39c0669b29e5486a7611a.svg",
+    "index.html": "/auth-login-pratice/index.html",
+    "main.317a20a1.css.map": "/auth-login-pratice/static/css/main.317a20a1.css.map",
+    "main.21eff82c.js.map": "/auth-login-pratice/static/js/main.21eff82c.js.map"
   },
   "entrypoints": [
     "static/css/main.317a20a1.css",
-    "static/js/main.b8d62640.js"
+    "static/js/main.21eff82c.js"
   ]
 }
