@@ -10,7 +10,7 @@ import Home from './home'
 
 const Routes = () => {
   return (
-    <Router>
+    <Router basename={process.env.PUBLIC_URL}>
       <Switch>
         <Route exact path="/">
           <Login></Login>
